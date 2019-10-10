@@ -1,0 +1,11 @@
+{
+  "name": "spacex_launch_stats",
+  "version": "1.0.0",
+   "description": "A Web Application that lists SpaceX launch missions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chidiebere Chukwuma",
+  "license": "MIT"
+}
